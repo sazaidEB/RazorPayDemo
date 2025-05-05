@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RazorPayDemo</string>
+    <string name="txt_preview_card">Preview Your Visiting Card</string>
+    <string name="txt_share_visiting_card">Share Visiting Card</string>
+    <string name="txt_fill_details">Fill Your Details</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_company_Name">Company Name</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_mobile_number">Mobile Number</string>
+    <string name="txt_designation">Designation</string>
+
+</resources>
